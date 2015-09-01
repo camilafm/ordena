@@ -1,5 +1,6 @@
 /**
- * Camila Ferreira e Morgana Gomes
+ * Camila Ferreira e 
+ * Morgana Gomes
  * */
 
 package br.ifce.ordenacao.ordena;
